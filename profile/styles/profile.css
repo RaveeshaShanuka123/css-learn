@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi&display=swap');
+
+.heading{
+    font-family: Lobster,sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.box{
+    font-family:Kaisei HarunoUmi,Arial;
+    font-size: 20px;
+}
+.degree{
+    font-family: cursive;
+    font-weight:200;
+}
+
+.socities{
+    font-family: Verdana;
+    font-size: 14px;
+}
